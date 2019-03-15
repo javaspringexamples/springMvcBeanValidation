@@ -2,7 +2,7 @@
 This example presents the basic concept of using in Spring MVC bean validation.
 
 The technologies used are :
- - Spring 4.3.4
+ - Spring 4.3.18
  - JDK 1.8
  - Maven 3.3.9
 
